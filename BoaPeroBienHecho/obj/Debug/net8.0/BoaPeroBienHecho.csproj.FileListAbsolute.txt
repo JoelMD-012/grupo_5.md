@@ -1,0 +1,165 @@
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\appsettings.json
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.staticwebassets.runtime.json
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.staticwebassets.endpoints.json
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.exe
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.deps.json
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.runtimeconfig.json
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.dll
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.pdb
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.AssemblyInfoInputs.cache
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.AssemblyInfo.cs
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.csproj.CoreCompileInputs.cache
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\scopedcss\bundle\BoaPeroBienHecho.styles.css
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\scopedcss\projectbundle\BoaPeroBienHecho.bundle.scp.css
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.BoaPeroBienHecho.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.BoaPeroBienHecho.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.build.BoaPeroBienHecho.props
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BoaPeroBienHecho.props
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BoaPeroBienHecho.props
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.dll
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\refint\BoaPeroBienHecho.dll
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.pdb
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.genruntimeconfig.cache
+C:\Users\JOEL MIRANDA\source\repos\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\ref\BoaPeroBienHecho.dll
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\appsettings.json
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.staticwebassets.endpoints.json
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.staticwebassets.runtime.json
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.exe
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.deps.json
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.runtimeconfig.json
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.dll
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.pdb
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.AssemblyInfoInputs.cache
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.AssemblyInfo.cs
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.csproj.CoreCompileInputs.cache
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\scopedcss\bundle\BoaPeroBienHecho.styles.css
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\scopedcss\projectbundle\BoaPeroBienHecho.bundle.scp.css
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.BoaPeroBienHecho.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.BoaPeroBienHecho.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.build.BoaPeroBienHecho.props
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BoaPeroBienHecho.props
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BoaPeroBienHecho.props
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.dll
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\refint\BoaPeroBienHecho.dll
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.pdb
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.genruntimeconfig.cache
+C:\Users\SCPC717.LABS\Downloads\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\ref\BoaPeroBienHecho.dll
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\appsettings.json
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.staticwebassets.endpoints.json
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.staticwebassets.runtime.json
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.exe
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.deps.json
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.runtimeconfig.json
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.dll
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.pdb
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.AssemblyInfoInputs.cache
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.AssemblyInfo.cs
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\scopedcss\bundle\BoaPeroBienHecho.styles.css
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\scopedcss\projectbundle\BoaPeroBienHecho.bundle.scp.css
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.BoaPeroBienHecho.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.BoaPeroBienHecho.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.build.BoaPeroBienHecho.props
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BoaPeroBienHecho.props
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BoaPeroBienHecho.props
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.dll
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\refint\BoaPeroBienHecho.dll
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.pdb
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.genruntimeconfig.cache
+C:\Users\PERSONAL\Downloads\clase 16012025 pw1\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\ref\BoaPeroBienHecho.dll
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\appsettings.json
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.staticwebassets.endpoints.json
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.staticwebassets.runtime.json
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.exe
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.deps.json
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.runtimeconfig.json
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.dll
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.pdb
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.AssemblyInfoInputs.cache
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.AssemblyInfo.cs
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.csproj.CoreCompileInputs.cache
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\scopedcss\bundle\BoaPeroBienHecho.styles.css
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\scopedcss\projectbundle\BoaPeroBienHecho.bundle.scp.css
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.BoaPeroBienHecho.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.BoaPeroBienHecho.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.build.BoaPeroBienHecho.props
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BoaPeroBienHecho.props
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BoaPeroBienHecho.props
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.dll
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\refint\BoaPeroBienHecho.dll
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.pdb
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.genruntimeconfig.cache
+C:\Users\SCPC715.LABS\Downloads\clase 16012025 pw1 2\clase 16012025 pw1\BoaPeroBienHecho\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\ref\BoaPeroBienHecho.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\appsettings.json
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.staticwebassets.endpoints.json
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.staticwebassets.runtime.json
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.exe
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.deps.json
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.runtimeconfig.json
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\bin\Debug\net8.0\BoaPeroBienHecho.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.AssemblyInfoInputs.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.AssemblyInfo.cs
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.csproj.CoreCompileInputs.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\scopedcss\bundle\BoaPeroBienHecho.styles.css
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\scopedcss\projectbundle\BoaPeroBienHecho.bundle.scp.css
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.BoaPeroBienHecho.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.BoaPeroBienHecho.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.build.BoaPeroBienHecho.props
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BoaPeroBienHecho.props
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BoaPeroBienHecho.props
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\refint\BoaPeroBienHecho.dll
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.pdb
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\BoaPeroBienHecho.genruntimeconfig.cache
+C:\Users\JOEL MIRANDA\Desktop\UNIVERSIDAD\5. QUINTO SEMESTRE\PROGRAMACION WEB I\LUIS\BoaPeroBienHecho\BoaPeroBienHecho\obj\Debug\net8.0\ref\BoaPeroBienHecho.dll

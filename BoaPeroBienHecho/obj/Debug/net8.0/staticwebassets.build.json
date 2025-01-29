@@ -1,0 +1,1052 @@
+{
+  "Version": 1,
+  "Hash": "Y3RgZohDcTha927oeq0KMjg1Ch9+HHedM/R1YD2UFzc=",
+  "Source": "BoaPeroBienHecho",
+  "BasePath": "_content/BoaPeroBienHecho",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BoaPeroBienHecho\\wwwroot",
+      "Source": "BoaPeroBienHecho",
+      "ContentRoot": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\",
+      "BasePath": "_content/BoaPeroBienHecho",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BoaPeroBienHecho.styles.css",
+      "SourceId": "BoaPeroBienHecho",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/BoaPeroBienHecho",
+      "RelativePath": "BoaPeroBienHecho#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "67f3y7eza4",
+      "Integrity": "ThKMeU8tdg6Zvkbl5cGePvk3Xx1MX0VINaYXSWNISk8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BoaPeroBienHecho.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BoaPeroBienHecho.bundle.scp.css",
+      "SourceId": "BoaPeroBienHecho",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/BoaPeroBienHecho",
+      "RelativePath": "BoaPeroBienHecho#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "67f3y7eza4",
+      "Integrity": "ThKMeU8tdg6Zvkbl5cGePvk3Xx1MX0VINaYXSWNISk8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BoaPeroBienHecho.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\app.css",
+      "SourceId": "BoaPeroBienHecho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\",
+      "BasePath": "_content/BoaPeroBienHecho",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3f4vfn5plw",
+      "Integrity": "H+MPPzqauwlsFH4Z4iJbOEjhv56JJb2gcqeFbvz4ZiA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "BoaPeroBienHecho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\",
+      "BasePath": "_content/BoaPeroBienHecho",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "BoaPeroBienHecho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\",
+      "BasePath": "_content/BoaPeroBienHecho",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\css\\custom.css",
+      "SourceId": "BoaPeroBienHecho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\",
+      "BasePath": "_content/BoaPeroBienHecho",
+      "RelativePath": "css/custom#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\custom.css"
+    },
+    {
+      "Identity": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\favicon.png",
+      "SourceId": "BoaPeroBienHecho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\",
+      "BasePath": "_content/BoaPeroBienHecho",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\images\\boa_background.jpg",
+      "SourceId": "BoaPeroBienHecho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\",
+      "BasePath": "_content/BoaPeroBienHecho",
+      "RelativePath": "images/boa_background#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ntienuyda4",
+      "Integrity": "NZpVvfcf2e2IpvcGHsyv5wwJnOizG7ErmqzSPc7g/B8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\boa_background.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\images\\check.png",
+      "SourceId": "BoaPeroBienHecho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\",
+      "BasePath": "_content/BoaPeroBienHecho",
+      "RelativePath": "images/check#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9dhrkj7zyv",
+      "Integrity": "U3/XJCq8b/WU+HrbXXdjUNFbl7kLOCylNTxyKZXBrjQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\check.png"
+    },
+    {
+      "Identity": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\images\\logo.png",
+      "SourceId": "BoaPeroBienHecho",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\",
+      "BasePath": "_content/BoaPeroBienHecho",
+      "RelativePath": "images/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ipc3x1pcmk",
+      "Integrity": "FlhUlt/srcRqxLwf3NpCIVQvXYKuEIgeLZ6bAXK6GeA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.3f4vfn5plw.css",
+      "AssetFile": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H+MPPzqauwlsFH4Z4iJbOEjhv56JJb2gcqeFbvz4ZiA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Jan 2025 00:22:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3f4vfn5plw"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H+MPPzqauwlsFH4Z4iJbOEjhv56JJb2gcqeFbvz4ZiA="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H+MPPzqauwlsFH4Z4iJbOEjhv56JJb2gcqeFbvz4ZiA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Jan 2025 00:22:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H+MPPzqauwlsFH4Z4iJbOEjhv56JJb2gcqeFbvz4ZiA="
+        }
+      ]
+    },
+    {
+      "Route": "BoaPeroBienHecho.67f3y7eza4.bundle.scp.css",
+      "AssetFile": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BoaPeroBienHecho.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ThKMeU8tdg6Zvkbl5cGePvk3Xx1MX0VINaYXSWNISk8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 03:26:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "67f3y7eza4"
+        },
+        {
+          "Name": "label",
+          "Value": "BoaPeroBienHecho.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ThKMeU8tdg6Zvkbl5cGePvk3Xx1MX0VINaYXSWNISk8="
+        }
+      ]
+    },
+    {
+      "Route": "BoaPeroBienHecho.67f3y7eza4.styles.css",
+      "AssetFile": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BoaPeroBienHecho.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ThKMeU8tdg6Zvkbl5cGePvk3Xx1MX0VINaYXSWNISk8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 03:26:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "67f3y7eza4"
+        },
+        {
+          "Name": "label",
+          "Value": "BoaPeroBienHecho.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ThKMeU8tdg6Zvkbl5cGePvk3Xx1MX0VINaYXSWNISk8="
+        }
+      ]
+    },
+    {
+      "Route": "BoaPeroBienHecho.bundle.scp.css",
+      "AssetFile": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BoaPeroBienHecho.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ThKMeU8tdg6Zvkbl5cGePvk3Xx1MX0VINaYXSWNISk8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 03:26:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ThKMeU8tdg6Zvkbl5cGePvk3Xx1MX0VINaYXSWNISk8="
+        }
+      ]
+    },
+    {
+      "Route": "BoaPeroBienHecho.styles.css",
+      "AssetFile": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BoaPeroBienHecho.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ThKMeU8tdg6Zvkbl5cGePvk3Xx1MX0VINaYXSWNISk8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 03:26:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ThKMeU8tdg6Zvkbl5cGePvk3Xx1MX0VINaYXSWNISk8="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 03:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 03:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 23:58:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 23:58:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom.5ipweew5fc.css",
+      "AssetFile": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\css\\custom.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 03:33:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/custom.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom.css",
+      "AssetFile": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\css\\custom.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 03:33:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 23:58:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 23:58:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "images/boa_background.jpg",
+      "AssetFile": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\images\\boa_background.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "273544"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NZpVvfcf2e2IpvcGHsyv5wwJnOizG7ErmqzSPc7g/B8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 01:04:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NZpVvfcf2e2IpvcGHsyv5wwJnOizG7ErmqzSPc7g/B8="
+        }
+      ]
+    },
+    {
+      "Route": "images/boa_background.ntienuyda4.jpg",
+      "AssetFile": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\images\\boa_background.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "273544"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NZpVvfcf2e2IpvcGHsyv5wwJnOizG7ErmqzSPc7g/B8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 01:04:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ntienuyda4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/boa_background.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NZpVvfcf2e2IpvcGHsyv5wwJnOizG7ErmqzSPc7g/B8="
+        }
+      ]
+    },
+    {
+      "Route": "images/check.9dhrkj7zyv.png",
+      "AssetFile": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\images\\check.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "410"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U3/XJCq8b/WU+HrbXXdjUNFbl7kLOCylNTxyKZXBrjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 23:41:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9dhrkj7zyv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/check.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U3/XJCq8b/WU+HrbXXdjUNFbl7kLOCylNTxyKZXBrjQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/check.png",
+      "AssetFile": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\images\\check.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "410"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U3/XJCq8b/WU+HrbXXdjUNFbl7kLOCylNTxyKZXBrjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 23:41:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U3/XJCq8b/WU+HrbXXdjUNFbl7kLOCylNTxyKZXBrjQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.ipc3x1pcmk.png",
+      "AssetFile": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FlhUlt/srcRqxLwf3NpCIVQvXYKuEIgeLZ6bAXK6GeA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Mar 2023 02:49:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ipc3x1pcmk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FlhUlt/srcRqxLwf3NpCIVQvXYKuEIgeLZ6bAXK6GeA="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.png",
+      "AssetFile": "C:\\Users\\JOEL MIRANDA\\Desktop\\UNIVERSIDAD\\5. QUINTO SEMESTRE\\PROGRAMACION WEB I\\LUIS\\BoaPeroBienHecho\\BoaPeroBienHecho\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FlhUlt/srcRqxLwf3NpCIVQvXYKuEIgeLZ6bAXK6GeA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Mar 2023 02:49:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FlhUlt/srcRqxLwf3NpCIVQvXYKuEIgeLZ6bAXK6GeA="
+        }
+      ]
+    }
+  ]
+}

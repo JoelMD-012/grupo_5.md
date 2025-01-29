@@ -119,17 +119,14 @@ Este proyecto ha permitido obtener una visión completa sobre la integración de
 - [Supabase Documentation](https://supabase.io/docs)
 
 
-- Código Fuente: [GitHub](https://github.com/ejemplo/proyecto-ia)
+- Código Fuente: [GitHub](https://github.com/JoelMD-012/grupo_5.md.git)
 - Dataset: Disponible en el repositorio de GitHub.
 
 ## 📁 Anexos
 
 ### Capturas de Pantalla
 - **Pantalla de Selección de Vuelo:**
-  ![Selección de Vuelo](ruta/a/captura1.png)
-
-- **Formulario de Datos del Pasajero:**
-  ![Formulario Pasajero](ruta/a/captura2.png)
+  ![Selección de Vuelo](https://drive.google.com/file/d/1FlovtNUVm7kjKhrW4wPMlbsDf27cemHa/view?usp=sharing)
 
 ### Código Relevante
 
